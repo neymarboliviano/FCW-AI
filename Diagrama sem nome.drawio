@@ -217,6 +217,24 @@
             <mxPoint x="287" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L1QKmDAtesayIT9dAjuc-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.92;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h1bn67cL_YCnqW_peCk6-9" target="L1QKmDAtesayIT9dAjuc-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="496" as="sourcePoint" />
+            <mxPoint x="970" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1QKmDAtesayIT9dAjuc-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.97;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L1QKmDAtesayIT9dAjuc-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1124" y="478" as="sourcePoint" />
+            <mxPoint x="1110" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1QKmDAtesayIT9dAjuc-19" value="Reajustar resumos" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#7EA6E0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="970" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L1QKmDAtesayIT9dAjuc-20" value="Baixar resumos" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#7EA6E0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="1080" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
